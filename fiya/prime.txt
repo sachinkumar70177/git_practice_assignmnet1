@@ -1,8 +1,17 @@
 // Prime number
 
-let n= 7;
-if(n%2==0){
-	console.log("Its a Prime Number!");	
-}else{
-	console.log("Its not a Prime Number");
- }
+let n=2;
+count=0;
+for (i=1;i<=n;i++){
+if(n%i==0){
+  count++
+}
+}
+if (count==2){
+  console.log("prime);
+              }
+              else{
+              console.log("not a prime")
+}
+change it
+
