@@ -13,5 +13,5 @@ if (count==2){
               else{
               console.log("not a prime")
 }
-change it
+change 
 
